@@ -1,2 +1,2 @@
 # TrackIt
-2D Motion Tracking
+Self-Supervised 2D Motion Tracking
